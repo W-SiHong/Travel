@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "text": "查看帮助",
+      "icon": "&#xe620;",
+      "subset": [
+        {
+          "text": "常见问题",
+          "icon": "&#xe621;",
+          "href": "help.jsp"
+        }
+      ]
+    }
+  ]
+}

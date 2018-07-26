@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "text": "表单申请界面",
+      "icon": "&#xe620;",
+      "subset": [
+        {
+          "text": "出差申请表",
+          "icon": "&#xe621;",
+          "href": "travel_application.jsp"
+        },{
+          "text": "出差总结表",
+          "icon": "&#xe621;",
+          "href": "ApplicationPassServlet"
+        },{
+          "text": "出差报销表",
+          "icon": "&#xe621;",
+          "href": "SummaryPassServlet"
+        }
+      ]
+    },{
+      "text": "个人表单状态查询",
+      "icon": "&#xe620;",
+      "subset": [
+        {
+          "text": "查看出差申请状态",
+          "icon": "&#xe621;",
+          "href": "CheakApplicationServlet"
+        },{
+          "text": "查看出差总结状态",
+          "icon": "&#xe621;",
+          "href": "CheakSummaryServlet"
+        },{
+          "text": "查看报销申请状态",
+          "icon": "&#xe621;",
+          "href": "CheakReimburseServlet"
+        },
+        {
+          "text": "查看所有表单",
+          "icon": "&#xe621;",
+          "href": "CheackAllServlet"
+        }
+      ]
+    },{
+      "text": "表单审批",
+      "icon": "&#xe628;",
+      "href": "",
+      "subset": [
+       {
+          "text": "员工出差申请审批",
+          "icon": "&#xe621;",
+          "href": "Examine1ApplicationServlet"
+        },{
+          "text": "员工出差总结审批",
+          "icon": "&#xe621;",
+          "href": "ExamineSummaryServlet"
+        }
+        ,{
+          "text": "员工报销申请审批",
+          "icon": "&#xe621;",
+          "href": "ExamineReimburseServlet"
+        }
+      ]
+    },{
+      "text": "个人信息",
+      "icon": "&#xe628;",
+      "href": "",
+      "subset": [
+       {
+          "text": "查看个人信息",
+          "icon": "&#xe621;",
+          "href": "ViewUserServlet"
+        }]}
+  ]
+}
